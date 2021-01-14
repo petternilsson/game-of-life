@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.karlivanpetter.gameoflife.core.BoardTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-01-12T15:04:52" hostname="CFT1080.local" time="0.062">
+  <properties/>
+  <testcase name="testGetNeighboursCenter()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.05"/>
+  <testcase name="testGetNeighboursInCorners()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.001"/>
+  <testcase name="testGetNeighboursOutOfBounds()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.0"/>
+  <testcase name="testInit()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.0"/>
+  <testcase name="testIncorrectSize()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.003"/>
+  <testcase name="testInit0percentProbability()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.001"/>
+  <testcase name="testInit100percentProbability()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.001"/>
+  <testcase name="testDeadGrid()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.002"/>
+  <testcase name="testNextGeneration()" classname="se.karlivanpetter.gameoflife.core.BoardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

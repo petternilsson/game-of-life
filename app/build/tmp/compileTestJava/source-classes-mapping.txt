@@ -1,0 +1,6 @@
+se/karlivanpetter/gameoflife/core/BoardTest.java
+ se.karlivanpetter.gameoflife.core.BoardTest
+se/karlivanpetter/gameoflife/core/CellTest.java
+ se.karlivanpetter.gameoflife.core.CellTest
+se/karlivanpetter/gameoflife/ConfigurationTest.java
+ se.karlivanpetter.gameoflife.ConfigurationTest

@@ -1,0 +1,16 @@
+se/karlivanpetter/gameoflife/core/Coordinate.java
+ se.karlivanpetter.gameoflife.core.Coordinate
+se/karlivanpetter/gameoflife/core/Cell.java
+ se.karlivanpetter.gameoflife.core.Cell
+se/karlivanpetter/gameoflife/ui/BoardDisplay.java
+ se.karlivanpetter.gameoflife.ui.BoardDisplay
+se/karlivanpetter/gameoflife/ui/console/ConsoleUtils.java
+ se.karlivanpetter.gameoflife.ui.console.ConsoleUtils
+se/karlivanpetter/gameoflife/core/Board.java
+ se.karlivanpetter.gameoflife.core.Board
+se/karlivanpetter/gameoflife/ui/console/ConsoleBoardDisplay.java
+ se.karlivanpetter.gameoflife.ui.console.ConsoleBoardDisplay
+se/karlivanpetter/gameoflife/Configuration.java
+ se.karlivanpetter.gameoflife.Configuration
+se/karlivanpetter/gameoflife/GameOfLife.java
+ se.karlivanpetter.gameoflife.GameOfLife
